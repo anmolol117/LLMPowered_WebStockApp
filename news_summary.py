@@ -1,7 +1,7 @@
 import requests
 
 # === Replace with your own Newsdata.io API key ===
-NEWSDATA_API_KEY = "pub_372353b3455e43b49f97384d0538e64d"
+NEWSDATA_API_KEY = "YOUR-API-KEY"
 
 # =============================
 # Fetch Latest News for a Stock
